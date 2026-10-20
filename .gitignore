@@ -1,4 +1,3 @@
-*.lst
 build/
 ref/
 tools/*.pkl
