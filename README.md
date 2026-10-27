@@ -1,5 +1,7 @@
 # NHL 94 PC Demo
 
+> **Making a mod, hack, port or other derivative work from this repo? You must credit me (abdulahmad) and everyone credited in this repo, clearly, in your own repo and in every release. See [Credits and derivative works](#credits-and-derivative-works).**
+
 > **Work in progress:** bootstrap stage. Layout and docs follow [NHL95PC](https://github.com/abdulahmad/NHL95PC).
 
 Bitwise rebuild (then matching C decompilation) of the DOS demo of NHL Hockey 94 (`HOCKEY94DEMO.EXE`, EA Sports). The demo is cut down from retail, so it is the easier first target. **Picking this up? Start with [docs/HANDOFF.md](docs/HANDOFF.md).**
@@ -38,3 +40,15 @@ This project is AI-assisted. The work is directed by a strict ruleset and curate
 * [docs/PLAN.md](docs/PLAN.md): full project plan
 
 Sister projects: [NHL95PC](https://github.com/abdulahmad/NHL95PC), [NHLPA93SNES](https://github.com/abdulahmad/NHLPA93SNES), [NHL94SNES](https://github.com/abdulahmad/NHL94SNES), [NHL94Genesis](https://github.com/abdulahmad/NHL94Genesis), [NHLPA93Genesis](https://github.com/abdulahmad/NHLPA93Genesis).
+
+## Credits and derivative works
+
+This project is the result of my work (abdulahmad) and the work of the people credited below. If you build anything from it, including mods, ROM or EXE hacks, ports, released forks, tools, or any other derivative work, you must credit us:
+
+- Put the credit in your repo's README, near the top and not buried in a footer, and in the notes of every release you publish, including any text file shipped inside a release archive.
+- Name me (abdulahmad) and link to this repository.
+- Name everyone credited here: chaos, StaticEck, McMarkis (Mhopkinsinc) and Drezz.
+- If you only use part of this repo (docs, a tool, labels, a file format description), the credit still applies.
+- If you are unsure, over-credit.
+
+Credit is the condition for using this work. Please do not release a derivative without it.

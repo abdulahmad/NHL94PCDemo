@@ -1,3 +1,5 @@
+> **Agents:** read [AGENTS.md](AGENTS.md) first. Any derivative work built from this repo must credit me (abdulahmad) and everyone credited in the README.
+
 # Prompt
 ```text
 You're working on the NHL 94 PC Demo (DOS, 16-bit MZ, Microsoft C) rebuild. Single agent, one task at a time.
