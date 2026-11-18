@@ -14,11 +14,11 @@ Lineage: 94 PC is a port of NHLPA 93 SNES / NHL 94 SNES (93S from 92/93 Genesis,
 
 | | |
 | --- | --- |
-| File | `HOCKEY94DEMO.EXE` (to be committed at repo root) |
+| File | `HOCKEY94DEMO.EXE` at the repo root: your own copy of the demo's `HOCKEY.EXE`, renamed (gitignored, not in the repo) |
 | SHA-256 | `8a6262bdb40c3eace3dd3a061f56a1a2be073738b27f9b2c3c7ef6ae973687f2` |
 | MD5 | `cd60da303e5c7e3be874d0abc7ac340b` |
 
-`.gitignore` keeps the IDA listing (`*.lst`), `build/` and `ref/` out of commits.
+Neither the EXE nor the IDA listing (`hockey94demo.lst`) is in the repo: keep your own copies at the repo root. `.gitignore` keeps them (`*.EXE`, `*.lst`), `build/` and `ref/` out of commits.
 
 ## Byte-exact rebuild from the EXE's own parts
 
