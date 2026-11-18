@@ -2,7 +2,7 @@
 
 ## Status (2026-10-20)
 - Repo bootstrapped: docs, `.gitignore`, `tools/rebuild_exe.py` (16-bit MZ split/rebuild/verify; tested MATCH on a synthetic MZ).
-- `HOCKEY94DEMO.EXE` committed (SHA-256 `8a6262bd…687f2`); `python3 tools/rebuild_exe.py verify` prints MATCH (header 13312 B, 3300 relocs, image 233084 B, no overlay).
+- `HOCKEY94DEMO.EXE` is your own copy at the repo root, not in the repo (SHA-256 `8a6262bd…687f2`); `python3 tools/rebuild_exe.py verify` prints MATCH (header 13312 B, 3300 relocs, image 233084 B, no overlay).
 - Function/segment counts from the IDA listing: still to do (needs the `.lst` on disk; see Next).
 
 ## Setup

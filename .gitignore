@@ -2,3 +2,7 @@ build/
 ref/
 tools/*.pkl
 __pycache__/
+# Retail files: your own copies, never committed
+*.EXE
+*.exe
+*.lst
